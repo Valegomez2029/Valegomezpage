@@ -3,4 +3,32 @@
     color:black;
     font: size 60px; 
    background-color: rgb(159, 211, 241);
+
+}
+.imagen1{
+border-style: dotted;
+}
+.imagen2{
+    border-style: double;
+}
+.imagen3{
+  border-style: dashed;
+}
+.parrafo1{
+font-style: oblique;
+}
+.parrafo2{
+    font-style: italic;
+}
+.parrafo3{
+font-style: unset;
+}
+.h2{
+    color: blueviolet;
+}
+.h3{
+    color: red;
+}
+.h4{
+    color: chocolate;
 }
